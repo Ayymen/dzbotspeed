@@ -31,7 +31,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Dz_BOT | -help`,"http://twitch.tv/Death Shop")
+client.user.setGame(`Aymen ,#0022`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
